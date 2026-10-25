@@ -1,0 +1,7 @@
+!projekty/
+!projekty/**
+!.gitignore
+
+.idea/
+.idea/**
+**/.idea/**

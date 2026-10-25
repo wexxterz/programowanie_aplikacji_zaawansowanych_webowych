@@ -1,0 +1,17 @@
+ANALIZA WYMAGAN
+
+Opis problem: Brak aplikacji webowej, ktora umozliwialaby szybki wglad
+w liste produktow oraz sprawne zarzadzanie asortymentem w czasie rzeczywistym.
+
+Wymagania funkcjonalne:
+ - wyswietlanie listy produktow
+ - dodawanie nowego produktu
+ - usuwanie produktu
+
+Wymagania niefunkcjonalne:
+ - logika napisana w TypeScript
+ - czytelne nazwy zmiennych i funkcji
+ - nazwy zmiennych i funckji w jezyku angielskim
+ - uzywac biblioteky Bootstrap do stylowania interfejsu uzytkownika
+ - podzial kodu na moduly
+ - zastosowanie podanego pliku tsconfig.json
